@@ -1,2 +1,2 @@
 [workspace]
-members = ["pdl-compiler"]
+members = ["pdl-compiler", "upack"]
